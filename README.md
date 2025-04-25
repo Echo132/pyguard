@@ -6,6 +6,10 @@
 
 PyGuard is a comprehensive malware detection and removal tool designed to protect systems from a variety of malware threats. This project combines multiple detection methods with quarantine and removal capabilities to provide robust security protection.
 
+personal notes 
+
+I want to make a script that could cover a wide scope, but biting more than I could handle, I was forced to use AI to help with my structure, but this let me be more creative in my approach. 
+
 ## Features
 
 ### 1. Signature-based Detection
