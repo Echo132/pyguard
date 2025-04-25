@@ -12,6 +12,8 @@ I want to make a script that could cover a wide scope, but biting more than I co
 
 ## Features
 
+there are some bugs i am still working on :)
+
 ### 1. Signature-based Detection
 - Scans files using MD5 hash comparison
 - Detects known malware patterns in file headers
